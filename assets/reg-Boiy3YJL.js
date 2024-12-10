@@ -1,0 +1,1 @@
+function e(s){return a=>s.test(a)}const t=e(/^[a-zA-Z0-9]+$/),n=e(/[a-zA-Z]/),g=e(/^(?:[7-9]|[1-9][0-9]|1[01][0-9]|110)$/),o=e(/^1[3-9]\d{9}$/),c=e(/(^[1-9]\d{4,9}@qq\.com$)|(^[a-zA-Z]\w{5,17}@(126|163)\.com$)/);export{g as a,c as b,t as e,n as h,o as p};

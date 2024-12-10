@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{f as o,o as c}from"./index-Cs6km2Mj.js";const s={},t={class:"welcome"};function a(n,r){return c(),o("span",t,"WelCome")}const m=e(s,[["render",a],["__scopeId","data-v-1db48315"]]);export{m as default};
