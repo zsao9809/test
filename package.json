@@ -12,7 +12,7 @@
     "@element-plus/icons-vue": "^2.3.1",
     "@vue-office/docx": "^1.6.2",
     "axios": "^1.7.7",
-    "element-plus": "^2.8.6",
+    "element-plus": "^2.9.0",
     "vue": "^3.5.12",
     "vue-router": "^4.4.5",
     "vuex": "^4.0.2"
