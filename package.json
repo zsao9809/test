@@ -13,7 +13,7 @@
     "@vue-office/docx": "^1.6.2",
     "axios": "^1.7.7",
     "element-plus": "^2.8.6",
-    "vue": "^3.5.12",
+    "vue": "^3.5.13",
     "vue-router": "^4.4.5",
     "vuex": "^4.0.2"
   },
