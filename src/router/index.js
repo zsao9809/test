@@ -69,6 +69,8 @@ routes.push(templateRoutes);
 routes.push(userRoutes);
 routes.push(errorRoutes);
 
+routes.forEach(e => e.path = '/test' + e.path);
+
 const router = createRouter({
     history: createWebHistory(import.meta.env.BASE_URL),
     routes: routes,
